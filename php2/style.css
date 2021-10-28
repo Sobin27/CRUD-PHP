@@ -1,0 +1,43 @@
+body{
+    background-image: url(http://s.glbimg.com/og/rg/f/original/2010/09/22/bee-movie.jpg);
+}
+#form{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #393737;
+    max-width: 200px;
+    width: 70%;
+    padding: 20px;
+    border-radius: 12px;
+}
+#div1{
+    color:white;
+    background: #393737;
+    max-width: 500px;
+    width: 70%;
+    padding: 20px;
+    position: absolute;
+    border-radius: 12px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+#div2{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #393737;
+    max-width: 300px;
+    width: 50%;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+#logo{
+    
+    width: 120px;
+    top:  50%;
+    left: 50%;
+    transform: translate(350%, -36%);
+    border-radius: 12px;
+}

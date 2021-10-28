@@ -1,0 +1,37 @@
+#div1{
+    
+    color:white;
+    background: #393737;
+    max-width: 500px;
+    width: 20%;
+    padding: 20px;
+    border-radius: 12px;
+    left: 50%;
+    top: 30%;
+    transform: translate(1%, 99%);
+}
+
+#logo{
+    
+    width: 220px;
+    top:  30%;
+    left: 20%;
+    transform: translate(517%, -100%);
+}
+
+#body{
+    background-image: url(https://static.wixstatic.com/media/fecde3_e2b37155ed1a456dbd65909a0e44022f~mv2.jpg/v1/fit/w_640%2Ch_400%2Cal_c%2Cq_80/file.jpg);
+}
+
+#div2{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #393737;
+    max-width: 295px;
+    width: 100%;
+    padding: 10px;
+    border-radius: 12px;
+    position: absolute;
+    
+}
+
